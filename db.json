@@ -1,0 +1,16 @@
+[
+    { 
+        "id": "starbucks-frappucino",
+        "name": "Starbucks Chocolate Frappuccino",
+        "details": "It consists of coffee or cream, mixed with ice and other ingredients, usually topped with whipped cream and flavored syrups.",
+        "price": "$9.99",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpicsart.com%2Fzh_hans%2Fi%2Fsticker-aesthetic-starbucks-drinks-263949329012212&psig=AOvVaw0-rN_M8rqJ0flfMdxUbPw_&ust=1582330982651000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiYutCx4ecCFQAAAAAdAAAAABAD"
+    },
+    { 
+        "id": "starbucks-latte",
+        "name": "Starbucks Chai Latte",
+        "details": "Tea with a mix of spices and Indian herbs",
+        "price": "$8.99",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdlpng.com%2Fpng%2F6491108&psig=AOvVaw0-rN_M8rqJ0flfMdxUbPw_&ust=1582330982651000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiYutCx4ecCFQAAAAAdAAAAABAf"
+    }
+]
